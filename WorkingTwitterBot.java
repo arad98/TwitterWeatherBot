@@ -23,7 +23,7 @@ public class WorkingTwitterBot {
         Timer timer = new Timer();
 
 
-        OWM owm = new OWM("febcf2450ca2e583feb9b7f84bab2098");
+        OWM owm = new OWM("removed for privacy");
 
         // getting current weather data for Marysville wa
         CurrentWeather cwd = owm.currentWeatherByCityId(5802570);
